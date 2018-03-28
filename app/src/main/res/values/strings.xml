@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ambedo</string>
+    <string name="immerse">Immerse Yourself in Sound</string>
+    <string name="metal">Metal</string>
+    <string name="rock">Rock</string>
+    <string name="hiphop">Hip-Hop</string>
+    <string name="music_suggestion">Music suggestion for humans, by humans</string>
+
+</resources>

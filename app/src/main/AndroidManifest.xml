@@ -16,9 +16,30 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Metal" />
-        <activity android:name=".Hiphop" />
-        <activity android:name=".Rock"></activity>
+        <activity
+            android:name=".Metal"
+            android:label="@string/metal"
+            android:parentActivityName="com.example.android.ambedo.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.android.ambedo.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Hiphop"
+            android:label="@string/hiphop"
+            android:parentActivityName="com.example.android.ambedo.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.android.ambedo.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Rock"
+            android:label="@string/rock"
+            android:parentActivityName="com.example.android.ambedo.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.android.ambedo.MainActivity" />
+        </activity>
     </application>
 
 </manifest>

@@ -22,7 +22,7 @@ public class Rock extends AppCompatActivity {
         recommendations.add(new Recommendation("Julien Baker","Everybody Does \nSomething \nSprained Ankle \nTurn Out The Lights",R.drawable.julienb));
         recommendations.add(new Recommendation("Led Zeppelin","Thank You \nHeartbreaker \nWhole Lotta Love \nCommunication Breakdown \nBlack Dog \nGoing to California",R.drawable.ledz));
         recommendations.add(new Recommendation("Pink Floyd","Time \nWish You Were Here \nHey You \nMother \nShine On You Crazy Diamond",R.drawable.pinkf));
-        recommendations.add(new Recommendation("Radiohead","There There \nYou And Whose Army?  \nFake Plastic Trees \nParanoid Android \n2+2=5 , Pyramid Song",R.drawable.radioh));
+        recommendations.add(new Recommendation("Radiohead", "There There \nYou And Whose Army?  \nFake Plastic Trees \nParanoid Android \n2+2=5  \nPyramid Song", R.drawable.radioh));
         recommendations.add(new Recommendation("Tame Impala","Cause Im a Man \nElephant \nFeels Like We Only Go Backwards \nYes Im Changing \nLet It Happen",R.drawable.tamei));
         recommendations.add(new Recommendation("The Killers","Mr Brightside \nSam's Town \nHuman \nRead My Mind \nAll These Things That I've Done \nWhen You Were Young",R.drawable.thek));
         recommendations.add(new Recommendation("The Movielife","Mercy Is Asleep At The Wheel \nHand Grenade \nLake Superior  \nWalking on Glass ",R.drawable.them));
